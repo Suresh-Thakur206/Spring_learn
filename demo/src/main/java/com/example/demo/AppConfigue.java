@@ -9,6 +9,7 @@ import org.springframework.context.annotation.Configuration;
 public class AppConfigue {
     @Bean
     public Address address(){
+
         return new Address(122,"kathmmandu",11);
     }
     @Bean

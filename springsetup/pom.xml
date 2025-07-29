@@ -8,10 +8,10 @@
 		<version>3.5.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>demo</artifactId>
+	<groupId>com.stcoding</groupId>
+	<artifactId>springsetup</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring_tut</name>
+	<name>springsetup</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
